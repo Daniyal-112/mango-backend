@@ -1,0 +1,9 @@
+📋 Training Summary
+====================
+✅ Final Accuracy: 1.0000
+📉 Final Loss: 0.2978
+📊 Total Epochs Trained: 115
+🏆 Best Accuracy: 1.0000 (Epoch 13)
+📉 Lowest Loss: 0.2958 (Epoch 95)
+
+🖼️ Plots saved as PNG files.

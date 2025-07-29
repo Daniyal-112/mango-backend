@@ -1,0 +1,7 @@
+train: C:/Users/Daniyal Rehman/OneDrive/Desktop/Finalfyp/backend/train/images
+val: C:/Users/Daniyal Rehman/OneDrive/Desktop/Finalfyp/backend/valid/images
+test: C:/Users/Daniyal Rehman/OneDrive/Desktop/Finalfyp/backend/test_copy/images
+
+nc: 2
+names: ['mango','non-mango']
+
